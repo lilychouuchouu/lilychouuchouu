@@ -1,4 +1,5 @@
-## Hi there 👋
+## <img width="722" height="125" alt="imagen" src="https://github.com/user-attachments/assets/6785d838-78eb-4bf7-86ae-ec9cb1abea4c" />
+
 
 <!--
 **lilychouuchouu/lilychouuchouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
